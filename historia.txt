@@ -1,3 +1,5 @@
 Este es una practica de Git y del primer commit
 
 Tengo 25 años y soy estudiante de Analista de Sistemas
+
+Vivo en Buenos Aires
